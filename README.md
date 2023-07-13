@@ -2,4 +2,4 @@
 <br>
 <p>Uma simples página web responsiva utilizando as linguagens HTML e CSS.<p/>
 
-<img src="https://github.com/luigiolivi/wide-coverage-location/blob/master/images/PrtSc.jpg?raw=true">
+<img src="https://github.com/luigiolivi/wide-coverage-location/blob/master/images/1.jpg?raw=true">
